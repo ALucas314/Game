@@ -33,7 +33,7 @@ Basicamente o projeto foi capaz de realizar as seguintes tarefas:
 - [x] Possui funcionalidades com JS 3
 - [x] Consumo de API com JS 4
       
-<img src="assets/img/QRcode.png" alt="css3" width="200" height="200"/>
+<img src="FF.PNG" alt="Exemplo imagem">
 
 ## 🚀 Link do site copie e cole no navegador!
 
