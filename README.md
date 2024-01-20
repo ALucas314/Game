@@ -31,7 +31,7 @@ Basicamente o projeto foi capaz de realizar as seguintes tarefas:
 - [x] Animações simples 1
 - [x] Responsividade 2
 - [x] Possui funcionalidades com JS 3
-- [x] Consumo de API com JS 4
+- [x] Feito com a Godot engine 4
       
 <img src="FF.PNG" alt="Exemplo imagem">
 
