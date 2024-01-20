@@ -38,7 +38,7 @@ Basicamente o projeto foi capaz de realizar as seguintes tarefas:
 ## 🚀 Link do site copie e cole no navegador!
 
 ```
-https://alucas314.github.io/Game/
+https://game-4ypp.vercel.app/
 ```
 
 
